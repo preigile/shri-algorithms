@@ -19,7 +19,7 @@ function bubbleSort(arr) {
     return arr;
 }
 
-// console.log('bubble', bubbleSort([-3, 2, 10]));
-// console.log('bubble', bubbleSort([-3, 20, 10]));
-// console.log('bubble', bubbleSort([]));
-// console.log('bubble', bubbleSort([3, 2, 10, -100, -20, -1, 0, 1]));
+console.log('bubble', bubbleSort([-3, 2, 10]));
+console.log('bubble', bubbleSort([-3, 20, 10]));
+console.log('bubble', bubbleSort([]));
+console.log('bubble', bubbleSort([3, 2, 10, -100, -20, -1, 0, 1]));
