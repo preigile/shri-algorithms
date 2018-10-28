@@ -24,4 +24,4 @@ const list = {
     }
 };
 
-// console.log('reverse list', reverseList(list.head));
+console.log('reverse list', reverseList(list.head));

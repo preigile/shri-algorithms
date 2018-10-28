@@ -18,7 +18,7 @@ function insertionSort(arr) {
     return arr;
 }
 
-// console.log('insertion', insertionSort([2, 0, -3, 1, 10]));
-// console.log('insertion', insertionSort([-3, 20, 10]));
-// console.log('insertion', insertionSort([]));
-// console.log('insertion', insertionSort([3, 2, 10, -100, -20, -1, 0, 1]));
+console.log('insertion', insertionSort([2, 0, -3, 1, 10]));
+console.log('insertion', insertionSort([-3, 20, 10]));
+console.log('insertion', insertionSort([]));
+console.log('insertion', insertionSort([3, 2, 10, -100, -20, -1, 0, 1]));
